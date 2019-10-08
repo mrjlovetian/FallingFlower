@@ -1,4 +1,4 @@
 # FallingFlower
 
-    ![gif](demo.gif)
+    ![gif](./demo.gif)
 
